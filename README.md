@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Najib Sauqi Rubbayani</h1>
 <h3 align="center">A passionate Backend Developer from Indonesia</h3>
 
-[![](https://visitcount.itsvg.in/api?id=Njsa13&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 🌱 I’m currently learning **Node.js**<br>💬 Ask me about **Java Spring**<br>📫 How to reach me **najibsauqi73@gmail.com**<br>⚡ Fun fact **Bananas are berries, but strawberries are not!**
@@ -24,4 +23,4 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=Njsa13&icon=0&color=0)](https://visitcount.itsvg.in)
