@@ -6,7 +6,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning **Node.js**<br>💬 Ask me about **Java Spring**<br>📫 How to reach me **najibsauqi73@gmail.com**<br>⚡ Fun fact **Bananas are berries, but strawberries are not!**
+🌱 I’m currently learning **Node.js**<br>💬 Ask me about **Java Spring Boot**<br>📫 How to reach me **najibsauqi73@gmail.com**<br>⚡ Fun fact **Bananas are berries, but strawberries are not!**
 
 
 ## 🌐 Socials:
